@@ -14,4 +14,4 @@ for i in range(1, N + 1):
     for j in range(1, 11):
         result = i * j
         print(f"{i} x {j} = {result}")
-    print()  # Ajoute une ligne vide entre les tables
+    print()
