@@ -12,5 +12,4 @@ def afficher_nombres_premiers(maximum):
         if est_nombre_premier(nombre):
             print(nombre, end=" ")
 
-# Afficher les nombres premiers jusqu'à 1000
 afficher_nombres_premiers(1000)
